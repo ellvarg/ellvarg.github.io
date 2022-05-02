@@ -91,7 +91,6 @@ body{
 .userContact ul li{
     position: relative;
     margin: 10px 0;
-    cursor: pointer;
 }
 .userContact  ul li span{
     color: #fff;
